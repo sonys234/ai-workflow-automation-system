@@ -1,0 +1,7 @@
+Company Leave Policy:
+
+1. Employees are allowed up to 5 consecutive days of leave for personal or family reasons.
+2. Medical leave up to 7 days may be approved with valid justification.
+3. Any leave request longer than 5 days requires manager approval.
+4. Leave requests without a clear reason must be rejected.
+5. Unusual or unclear reasons must be escalated for manual review.
